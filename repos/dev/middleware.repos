@@ -1,0 +1,5 @@
+repositories:
+  middleware/vmsgs:
+    type: git
+    url: https://github.com/thun-res/vmsgs.git
+    version: master

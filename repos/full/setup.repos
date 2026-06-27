@@ -1,0 +1,5 @@
+repositories:
+  setup:
+    type: git
+    url: https://github.com/thun-res/vsetup.git
+    version: master
